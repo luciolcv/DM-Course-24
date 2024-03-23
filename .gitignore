@@ -1,4 +1,3 @@
-
-02 - Classification/.ipynb_checkpoints/classification-checkpoint.ipynb
-01 - Pandas_Plot/.ipynb_checkpoints/intro_pandas_seaborn-checkpoint.ipynb
-/01 - Pandas_Plot/.ipynb_checkpoints
+*.ipynb_checkpoints
+*.DS_Store
+02 - Classification/data/mnist.pickle

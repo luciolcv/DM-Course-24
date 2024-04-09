@@ -4,7 +4,8 @@ Python notebooks for the "Data Mining" course, Master Degree ("Laurea Magistrale
 # Overview (work in progress..)
 > * Lecture 1 - Data Handling (Pandas) and Visualization (Matplotlib & Seaborn)
 > * Lecture 2 - Classification (Scikit-learn)
-> * Lecture 3 - TBA :)
+> * Lecture 3 - Regression
+> * Lecture 4 - TBA
 
 
 # Acknowledgements

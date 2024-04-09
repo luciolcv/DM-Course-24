@@ -1,3 +1,4 @@
 *.ipynb_checkpoints
 *.DS_Store
 02 - Classification/data/mnist.pickle
+.DS_Store

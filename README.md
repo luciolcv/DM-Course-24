@@ -2,10 +2,11 @@
 Python notebooks for the "Data Mining" course, Master Degree ("Laurea Magistrale") in Computer Engineering @ DIMES Dept, University of Calabria, CS, IT
 
 # Overview (work in progress..)
-> * Lecture 1 - Data Handling (Pandas) and Visualization (Matplotlib & Seaborn)
-> * Lecture 2 - Classification (Scikit-learn)
-> * Lecture 3 - Regression
-> * Lecture 4 - TBA
+> * Part 1 - Data Handling (Pandas) and Visualization (Matplotlib & Seaborn)
+> * Part 2 - Classification (Scikit-learn)
+> * Part 3 - Regression
+> * Part 4 - Ensemble Learning
+> * Part 5 - Clustering
 
 
 # Acknowledgements
